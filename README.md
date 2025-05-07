@@ -15,7 +15,7 @@
 ## 👤 Student Details
 
 - **Name:**AMAN SAYYED  
-- **Roll Number:** CM-57 
+- **Roll Number:** CM-52 
 - **Course:** Essentials of Data Science (2304102)  
 - **Semester:** AY 2024-25, Semester II
 
